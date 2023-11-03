@@ -202,13 +202,13 @@ of life we can create a kinder, wiser, healthier world.
 
 ## References
 
-[^1]:[MediMusic Ownership, Finance](crunchbase.com/organization/medimusic)
+[^1]:[MediMusic Ownership, Finance ](crunchbase.com/organization/medimusic)
 [^2]:[MediMusic About-Us](https://medimusic.co/about-us/)
 [^3]:[MediMusic Blog](https://medimusic.co/blog/2022/02/13/can-music-really-be-a-benefit-to-health/)
 [^4]:[MediMusic Funding](https://www.crunchbase.com/organization/medimusic/company_financials)
 [^5]:[Hull Is This](https://hullisthis.news/revolutionary-new-app-dispenses-music-as-medicine-to-reduce-anxiety-and-pain-in-patients-and-nhs-staff/)
 [^6]:[MediMusic Service](https://medimusic.co/service/)
-[^7]:[National Library of Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6631918/#B1nanomaterials09-00813)
+[^7]:[National Library of Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6631918/#B1-nanomaterials-09-00813
 [^8]:[Scandic Health](scandichealth.com)
 [^9]:[Endel Pacific](https://endel.io/integrations)
 [^10]:[SonicTonic](https://sonictonic.io/)
