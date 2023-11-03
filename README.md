@@ -75,7 +75,7 @@ of a physical rehabilitation programme." [^6]
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-MediMusic’s has its own MediBeats device that fingerprints algorithms scientifically
+MediMusic has its own MediBeats device that fingerprints algorithms scientifically
 mimic the human brain’s response to individual music tracks. Within a couple of 
 clicks personalised playlists are auto-created that cause a positive physiological 
 and emotional response.By using an optional heart rate monitor our Artificial 
@@ -86,7 +86,7 @@ the playlist tracks. The Digital Drip knows what that response should be." [^6]
  (This may take a little bit of sleuthing&mdash;you may want to search the company’s 
  engineering blog or use sites like Stackshare to find this information.)
 
- MediMusic uses MediBeat device that uses s a full Key Performance Indicator (KPI) 
+ MediMusic uses MediBeat device that uses a full Key Performance Indicator (KPI) 
  that shows reports of the bio-loop vitals using a wearable heart rate variability (HRV) monitor that 
  responds to what they call the DIGITAL DRIP™ that adjusts tracks to bring the 
  heart rate down faster or in slower steps. It also reports important information
