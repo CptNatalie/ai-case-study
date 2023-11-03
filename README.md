@@ -177,7 +177,7 @@ out at the top of the game." [^13]
 
 It would advise MediMusic to encorporate virtual reality in combination with their music therapy, 
 but that is why I am learning programming, so that they will be asking me to be an 
-archetect that project. 
+archetect on that project. 
 
 * Why do you think that offering this product or service would benefit the company?
 
