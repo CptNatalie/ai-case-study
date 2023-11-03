@@ -15,7 +15,7 @@ and quality of life of patients and health care workers through music therapy." 
 
 * Who are the founders of the company?
 
-MediMusic was founded by Matthew Weldon (CEO) , and Gary Jones (CTO) and has .
+MediMusic was founded by Matthew Weldon (CEO) , and Gary Jones (CTO).
 Matthew is a Award winning tech leader with experience delivering full stack 
 software and IoT projects for the likes of Nestle, IKEA, Siemens Gamesa and
 Ideal Boilers. Gary is an Award-winning product entrepreneur with 30 years 
