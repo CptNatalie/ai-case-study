@@ -160,7 +160,7 @@ for relevant medication by 24%." [^5]
 MediMusic produces substancial results in metrics of elivated emotional and physiological responses, 
 stress reduction, lowered heart rate, and stabilizing blood pressure. Clinical outcomes 
 of symptom reduction, and enhancement of quality of life. Personalization and adaptability 
-to customise music to preferencescu considering factors like cultrual back ground and therapeutic
+to customise music to preferences considering factors like cultrual back ground and therapeutic
 goals." [^12]"
 
 * How is your company performing relative to competitors in the same field?
