@@ -202,16 +202,16 @@ of life we can create a kinder, wiser, healthier world.
 
 ## References
 
-[^1]:[MediMusic Ownership, Finance ](crunchbase.com/organization/medimusic)
-[^2]:[MediMusic About-Us](https://medimusic.co/about-us/)
-[^3]:[MediMusic Blog](https://medimusic.co/blog/2022/02/13/can-music-really-be-a-benefit-to-health/)
-[^4]:[MediMusic Funding](https://www.crunchbase.com/organization/medimusic/company_financials)
-[^5]:[Hull Is This](https://hullisthis.news/revolutionary-new-app-dispenses-music-as-medicine-to-reduce-anxiety-and-pain-in-patients-and-nhs-staff/)
-[^6]:[MediMusic Service](https://medimusic.co/service/)
-[^7]:[National Library of Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6631918/#B1-nanomaterials-09-00813
-[^8]:[Scandic Health](scandichealth.com)
-[^9]:[Endel Pacific](https://endel.io/integrations)
-[^10]:[SonicTonic](https://sonictonic.io/)
-[^11]:[ChaGPT on Brain.fm](https://chat.openai.com/c/e8aa2ccc-4868-42d0-9a11-1a1e5479644b)
-[^12]:[Therapeutic Stats](https://www.soocial.com/music-therapy-statistics/)
-[^13]:[Tracxn Score](https://tracxn.com/d/companies/medimusic/__kK8t383GNWFTEGGblr8WHtXQjYsmZiSYdcQS3hXPwHE/competitors)
+[^1]:[MediMusic Ownership, Finance] (crunchbase.com/organization/medimusic)
+[^2]:[MediMusic About-Us] (https://medimusic.co/about-us/)
+[^3]:[MediMusic Blog] (https://medimusic.co/blog/2022/02/13/can-music-really-be-a-benefit-to-health/)
+[^4]:[MediMusic Funding] (https://www.crunchbase.com/organization/medimusic/company_financials)
+[^5]:[Hull Is This] (https://hullisthis.news/revolutionary-new-app-dispenses-music-as-medicine-to-reduce-anxiety-and-pain-in-patients-and-nhs-staff/)
+[^6]:[MediMusic Service] (https://medimusic.co/service/)
+[^7]:[National Library of Medicine] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6631918/#B1-nanomaterials-09-00813
+[^8]:[Scandic Health] (scandichealth.com)
+[^9]:[Endel Pacific] (https://endel.io/integrations)
+[^10]:[SonicTonic] (https://sonictonic.io/)
+[^11]:[ChaGPT on Brain.fm] (https://chat.openai.com/c/e8aa2ccc-4868-42d0-9a11-1a1e5479644b)
+[^12]:[Therapeutic Stats] (https://www.soocial.com/music-therapy-statistics/)
+[^13]:[Tracxn Score] (https://tracxn.com/d/companies/medimusic/__kK8t383GNWFTEGGblr8WHtXQjYsmZiSYdcQS3hXPwHE/competitors)
