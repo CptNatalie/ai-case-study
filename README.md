@@ -202,7 +202,7 @@ of life we can create a kinder, wiser, healthier world.
 
 ## References
 
-[^1]:[MediMusic Ownership, Finance] (crunchbase.com/organization/medimusic)
+[^1]:[MediMusic Ownership, Finance] (www.crunchbase.com/organization/medimusic)
 [^2]:[MediMusic About-Us] (https://medimusic.co/about-us/)
 [^3]:[MediMusic Blog] (https://medimusic.co/blog/2022/02/13/can-music-really-be-a-benefit-to-health/)
 [^4]:[MediMusic Funding] (https://www.crunchbase.com/organization/medimusic/company_financials)
