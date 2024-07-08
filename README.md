@@ -1,4 +1,4 @@
-# ai-case-study
+# AI Music Therapy Case Study
 
 # MediMusic's MediBeat Music Therapy App
 
